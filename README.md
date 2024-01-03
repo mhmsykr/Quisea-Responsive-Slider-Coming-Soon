@@ -1,4 +1,4 @@
-# Quisea Responsive Slider with Blurred Image
+# Responsive Slider with Blurred Image
 
 A responsive slider created using HTML, CSS, and Javascript.
 
@@ -20,4 +20,5 @@ Download this repository and extract it to your local storage.
 <pre>filter: blur(4px);</pre>
 The larger the number, the more blurred the image will be in the slider.
 
-
+## Thanks
+[Connect with me on LinkedIn](https://www.linkedin.com/in/mhmsykr)
